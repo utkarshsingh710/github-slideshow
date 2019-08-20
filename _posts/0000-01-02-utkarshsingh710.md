@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Kiss her mind and the body will follow
 Use the left arrow to go back!
